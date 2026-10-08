@@ -1,0 +1,9 @@
+-xc++
+-std=c++20
+-Iinclude
+-Itests
+-Wall
+-Wextra
+-mavx512f
+-mavx512dq
+-mavx512vpopcntdq
